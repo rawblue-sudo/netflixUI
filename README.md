@@ -1,5 +1,7 @@
 # netflix-ui
 
+my take on a Netflix-like UI using Tailwind CSS and TheMovieDB API
+
 ### Project setup
 ```
 yarn install
