@@ -1,6 +1,6 @@
 # netflix-ui
 
-## Project setup
+### Project setup
 ```
 yarn install
 ```
